@@ -1,0 +1,7 @@
+# ninja log v5
+1	4603	6863087726331801	CMakeFiles/basico_2.dir/main.cu.obj	8337701e687fcc4b
+4603	6354	6863087743901632	CMakeFiles/basico_2.dir/cmake_device_link.obj	a13e61632c0dfa0a
+6355	6801	6863087747471605	basico_2.exe	66a88377437a48bd
+2	2987	6863101354680105	CMakeFiles/basico_2.dir/main.cu.obj	5adbe37fa3a35048
+2987	4532	6863101370200445	CMakeFiles/basico_2.dir/cmake_device_link.obj	a13e61632c0dfa0a
+4532	5287	6863101376760611	basico_2.exe	66a88377437a48bd
