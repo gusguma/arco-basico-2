@@ -273,14 +273,14 @@ Parsed CUDA nvcc include information from above output:
 Detecting CUDA compiler ABI info compiled with the following output:
 Change Dir: C:/develop/clion/arco-basico-2/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_eb6e2 && [1/2] Building CUDA object CMakeFiles\cmTC_eb6e2.dir\CMakeCUDACompilerABI.cu.obj
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_81fdf && [1/2] Building CUDA object CMakeFiles\cmTC_81fdf.dir\CMakeCUDACompilerABI.cu.obj
 cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v'
 CMakeCUDACompilerABI.cu
 cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v'
 CMakeCUDACompilerABI.cu
 CMakeCUDACompilerABI.cu
 cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v'
-[2/2] Linking CUDA executable cmTC_eb6e2.exe
+[2/2] Linking CUDA executable cmTC_81fdf.exe
 
 
 
@@ -292,14 +292,14 @@ Parsed CUDA implicit link information from above output:
   link line regex: [^( *|.*[/\])(link\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: C:/develop/clion/arco-basico-2/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_eb6e2 && [1/2] Building CUDA object CMakeFiles\cmTC_eb6e2.dir\CMakeCUDACompilerABI.cu.obj]
+  ignore line: [Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_81fdf && [1/2] Building CUDA object CMakeFiles\cmTC_81fdf.dir\CMakeCUDACompilerABI.cu.obj]
   ignore line: [cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v']
   ignore line: [CMakeCUDACompilerABI.cu]
   ignore line: [cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v']
   ignore line: [CMakeCUDACompilerABI.cu]
   ignore line: [CMakeCUDACompilerABI.cu]
   ignore line: [cl : Línea de comandos warning D9002 : se omite la opción desconocida '-v']
-  ignore line: [[2/2] Linking CUDA executable cmTC_eb6e2.exe]
+  ignore line: [[2/2] Linking CUDA executable cmTC_81fdf.exe]
   ignore line: []
   ignore line: []
   implicit libs: []
